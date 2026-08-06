@@ -1,0 +1,4 @@
+O mercado de trabalho para COBOL é mais forte nos Estados Unidos e Canadá, principalmente em bancos, 
+seguradoras e órgãos do governo, que ainda utilizam sistemas legados por sua confiabilidade no processamento de 
+grandes volumes de dados. Nos Estados Unidos, um desenvolvedor COBOL sênior pode receber entre US$ 120 mil e 
+US$ 170 mil por ano. A linguagem segue os paradigmas imperativo, procedural, estruturado e orientado a dados
